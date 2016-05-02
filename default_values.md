@@ -25,3 +25,5 @@ output
 
 hello, Arbaaz
 ```
+
+**_We can also pass functions as default parameters_**
