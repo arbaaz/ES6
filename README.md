@@ -1,3 +1,4 @@
 #Learning ES6
 
-# [Arrow function =>](arrow_function.md)
+# [The Arrow function](arrow_function.md)
+# [The let keyword](let_keyword.md)
